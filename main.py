@@ -48,4 +48,3 @@ def padel_game_cost():
 
 
 padel_game_cost()
-
